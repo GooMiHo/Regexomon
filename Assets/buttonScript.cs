@@ -9,11 +9,6 @@ public class QuestionSets {
     public string Right { get; set; }
 }
 
-public class A {
-
-}
-
-
 public class buttonScript : MonoBehaviour {
     static string a = "test";
     QuestionSets firstQuestion = new QuestionSets { Question = "What ’t’ will this find?: /t$/ ", Wrong = new string[] { a, "better", "tea"}, Right = "eat"  };
