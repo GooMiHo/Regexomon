@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\buttonScript.cs" />
+    <Compile Include="Assets\test.cs" />
     <Compile Include="Assets\webCamerScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/bethanywalker/udemy for unity/Regexomon/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

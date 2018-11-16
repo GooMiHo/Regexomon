@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{AE788028-7691-3ED2-0E2C-CB0788EBEF23}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/webCamerScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/buttonScript.cs">
     <Files>
-      <File FileName="Assets/webCamScript.cs" Line="7" Column="36" />
-      <File FileName="Assets/webCamerScript.cs" Line="6" Column="5" />
+      <File FileName="Assets/buttonScript.cs" Line="21" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
